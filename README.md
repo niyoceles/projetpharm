@@ -4,3 +4,4 @@
 ### Technology used:
 - Database: MySQL
 - Javascript and HTML&CSS 
+- EJS:Embedded JavaScript templating.
